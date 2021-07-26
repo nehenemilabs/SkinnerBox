@@ -1,4 +1,4 @@
-# skinnerBox
+# SkinnerBox
 Blueprints for building Operant Conditioning Box (aka Skinner Box)
 
 ## Materials
